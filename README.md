@@ -1,4 +1,4 @@
-🛠️ Design Patterns Essentials | Interview Prep
+## 🛠️ Design Patterns Essentials | Interview Prep
 A refined collection of industry-standard Design Patterns implemented in C# 13 and .NET 9. This repository is architected to help developers master the technical vocabulary and structural logic required for high-level engineering interviews.
 
 📖 Overview
