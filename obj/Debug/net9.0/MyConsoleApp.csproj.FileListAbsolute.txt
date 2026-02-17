@@ -1,0 +1,14 @@
+C:\Users\Chetan Soni\Desktop\Coding\CPP coding\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.exe
+C:\Users\Chetan Soni\Desktop\Coding\CPP coding\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.deps.json
+C:\Users\Chetan Soni\Desktop\Coding\CPP coding\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.runtimeconfig.json
+C:\Users\Chetan Soni\Desktop\Coding\CPP coding\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.dll
+C:\Users\Chetan Soni\Desktop\Coding\CPP coding\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.pdb
+C:\Users\Chetan Soni\Desktop\Coding\CPP coding\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chetan Soni\Desktop\Coding\CPP coding\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Chetan Soni\Desktop\Coding\CPP coding\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\Chetan Soni\Desktop\Coding\CPP coding\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Chetan Soni\Desktop\Coding\CPP coding\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.dll
+C:\Users\Chetan Soni\Desktop\Coding\CPP coding\MyConsoleApp\obj\Debug\net9.0\refint\MyConsoleApp.dll
+C:\Users\Chetan Soni\Desktop\Coding\CPP coding\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.pdb
+C:\Users\Chetan Soni\Desktop\Coding\CPP coding\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\Chetan Soni\Desktop\Coding\CPP coding\MyConsoleApp\obj\Debug\net9.0\ref\MyConsoleApp.dll
