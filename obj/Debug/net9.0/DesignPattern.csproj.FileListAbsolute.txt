@@ -12,3 +12,4 @@ C:\Users\Chetan Soni\Desktop\Coding\CPP coding\DesignPatterns\obj\Debug\net9.0\r
 C:\Users\Chetan Soni\Desktop\Coding\CPP coding\DesignPatterns\obj\Debug\net9.0\DesignPattern.pdb
 C:\Users\Chetan Soni\Desktop\Coding\CPP coding\DesignPatterns\obj\Debug\net9.0\DesignPattern.genruntimeconfig.cache
 C:\Users\Chetan Soni\Desktop\Coding\CPP coding\DesignPatterns\obj\Debug\net9.0\ref\DesignPattern.dll
+C:\Users\Chetan Soni\Desktop\Coding\CPP coding\DesignPatterns\obj\Debug\net9.0\DesignPattern.sourcelink.json
