@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chetan Soni\\Desktop\\Coding\\CPP coding\\DesignPatterns\\DesignPattern.csproj",
-      "projectName": "DesignPattern",
-      "projectPath": "C:\\Users\\Chetan Soni\\Desktop\\Coding\\CPP coding\\DesignPatterns\\DesignPattern.csproj",
+      "projectUniqueName": "C:\\Users\\Chetan Soni\\Desktop\\Coding\\CPP coding\\DesignPatterns\\DesignPatterns.csproj",
+      "projectName": "DesignPatterns",
+      "projectPath": "C:\\Users\\Chetan Soni\\Desktop\\Coding\\CPP coding\\DesignPatterns\\DesignPatterns.csproj",
       "packagesPath": "C:\\Users\\Chetan Soni\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Chetan Soni\\Desktop\\Coding\\CPP coding\\DesignPatterns\\obj\\",
       "projectStyle": "PackageReference",

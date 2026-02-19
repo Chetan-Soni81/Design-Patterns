@@ -1,5 +1,4 @@
-﻿using System.ComponentModel.Design;
-using Exercise.BehavorialPatterns;
+﻿using Exercise.BehavorialPatterns;
 using Exercise.StructuralPatterns;
 
 // See https://aka.ms/new-console-template for more information
@@ -31,6 +30,10 @@ Console.WriteLine("Starting Design Patterns!\n");
 
 // StrategyDemo.Run();
 
+// Console.WriteLine();
+
+// CommandDemo.Run();
+
 Console.WriteLine();
 
-CommandDemo.Run();
+StateDemo.Run();
