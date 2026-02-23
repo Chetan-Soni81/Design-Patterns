@@ -34,6 +34,10 @@ Console.WriteLine("Starting Design Patterns!\n");
 
 // CommandDemo.Run();
 
+// Console.WriteLine();
+
+// StateDemo.Run();
+
 Console.WriteLine();
 
-StateDemo.Run();
+ChainOfResponsibilityDemo.Run();
