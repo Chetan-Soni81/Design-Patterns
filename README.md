@@ -53,7 +53,9 @@ Build the solution: ```bash
 - Strategy  
 - Observer  
 - State  
-- Command  
+- Command
+- Template
+- Chain of Responsibility
 
 ---
 
