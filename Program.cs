@@ -1,4 +1,5 @@
 ﻿using Exercise.BehavorialPatterns;
+using Exercise.CreationalPattern;
 using Exercise.StructuralPatterns;
 
 // See https://aka.ms/new-console-template for more information
@@ -42,7 +43,10 @@ Console.WriteLine("Starting Design Patterns!\n");
 
 // ChainOfResponsibilityDemo.Run();
 
+// Console.WriteLine();
+
+// TemplatePatternDemo.Run();
+
 Console.WriteLine();
 
-TemplatePatternDemo.Run();
-
+SingletonDemo.Run();
