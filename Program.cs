@@ -51,6 +51,10 @@ Console.WriteLine("Starting Design Patterns!\n");
 
 // SingletonDemo.Run();
 
+// Console.WriteLine();
+
+// FactoryPatternDemo.Run();
+
 Console.WriteLine();
 
-FactoryPatternDemo.Run();
+AbstractFactoryPatternDemo.Run();
