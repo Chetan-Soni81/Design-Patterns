@@ -4,7 +4,7 @@ namespace Exercise.CreationalPattern
 {
     public sealed class DatabaseConnection
     {
-        private static DatabaseConnection _instance = null;
+        private static DatabaseConnection _instance = null!;
         private static readonly object _lock = new object();
         private string _connectionString;
         private bool _isConnected;
@@ -130,7 +130,7 @@ namespace Exercise.CreationalPattern
 
         public string  GetSetting(string key)
         {
-            return _settings.ContainsKey(key) ? _settings[key] : null;
+            return _settings.ContainsKey(key) ? _settings[key] : null!;
         }
 
         public void SetSetting(string key, string value)
