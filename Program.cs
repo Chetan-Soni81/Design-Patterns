@@ -63,6 +63,10 @@ Console.WriteLine("Starting Design Patterns!\n");
 
 // BuilderDemo.Run();
 
+// Console.WriteLine();
+
+// PrototypePatternDemo.Run();
+
 Console.WriteLine();
 
-PrototypePatternDemo.Run();
+MediatorPatternDemo.Run();
