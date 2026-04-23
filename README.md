@@ -13,7 +13,7 @@ This repository is structured to help developers master the **technical vocabula
 Structural: Adapter, Decorator, Facade, and Proxy.
 ---
 
-Behavioral: Strategy, Observer, State, and Command.
+Behavioral: Strategy, Observer, State, Mediator, and Command.
 ## 📖 Overview  
 
 🚀 Technical Highlights
@@ -41,10 +41,12 @@ Build the solution: ```bash
 - Factory Method  
 - Abstract Factory  
 - Builder  
-- Singleton  
+- Singleton
+- Prototype  
 
 ### 🔹 Structural Patterns
 - Adapter  
+- Composite
 - Decorator  
 - Facade  
 - Proxy  
@@ -56,6 +58,7 @@ Build the solution: ```bash
 - Command
 - Template
 - Chain of Responsibility
+- Mediator
 
 ---
 
